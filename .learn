@@ -5,4 +5,4 @@ languages:
   - language_1
   - language_1
 resources: 0
-ide_setup: true
+env_setup: true
