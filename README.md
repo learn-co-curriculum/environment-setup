@@ -22,6 +22,8 @@ Before you continue, it's time to get set up with the Learn IDE. Follow the inst
 2. Install the Learn IDE on your computer and then start it up
 3. Log in to the Learn IDE with your newly created Learn account
 
-If you have any trouble getting the Learn IDE installed, just use the Ask a Question button on this page and someone will jump in to help you ASAP.
+If you have any trouble getting the Learn IDE installed, just use the Ask a Question button on this page and someone will jump in to help you right away!
 
 Next up, we'll walk you through the process of how to use the Learn IDE to solve code labs on Learn. The real fun is about to begin!
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/environment-setup'>Environment Setup</a> on Learn.co and start learning to code for free.</p>
