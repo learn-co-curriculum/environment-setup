@@ -25,7 +25,7 @@ Down the left side of the IDE, you'll find a file browser which lists the files 
 
 The text editor window is the central part of the IDE. This is where you'll actually be writing code. You can work on multiple files at once in the text editor, they'll appear as tabs across the top of your screen. Remember to save your work often—especially just before trying to run a program, so that the interpreter is always running the latest version of your code. 
 
-The Learn IDE's terminal—your command line and shell—can be found below the text editor. We want you to start coding as quickly as possible in the Learn IDE so we've pre-configured the terminal here with a complete development environment that has everything you need to get started. The magic that makes this possible is the fact that the Learn IDE's terminal is connected over the Internet to a remote server we've set up with that complete development environment. This will allow you to adopt the workflow of a professional software developer right out of the gates on Learn, with no fuss!
+The Learn IDE's terminal—your command line and shell—can be found below the text editor. We want you to start coding as quickly as possible in the Learn IDE so we've pre-configured the terminal here with a complete development environment that has everything you need to get started. The magic that makes this possible is the fact that the Learn IDE's terminal is connected over the Internet to a remote server we've set up with that complete development environment. This will allow you to adopt the workflow of a professional software developer right out of the gates on Learn, with no fuss.
 
 ## Don't Forget to Download the Learn IDE
 
