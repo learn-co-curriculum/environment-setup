@@ -1,17 +1,17 @@
 # The Learn <abbr title="Integrated Development Environment">IDE</abbr>
 
-You'll be using the Learn IDE to complete the coding labs in your courses. You'll be spending a lot of time with the IDE so let's take a few minutes to get to know it.
+You'll be using the Learn IDE to complete the coding labs in your courses. You'll be spending a lot of time with the IDE so let's take a few minutes to see how it works.
 
 ## Download the Learn IDE
 
 First, we need to get set up with the Learn IDE. Follow the instructions below: 
 
-1. <a class="js--download-ide button button--color-blue button--corners-tight" href="#">Click here to Download the Learn IDE</a>
+1. <a class="js--download-ide button button--color-blue button--corners-tight" href="#">Click here to create a Learn account and Download the Learn IDE</a>
 2. The Chrome browser may give you a warning upon downloading: "This type of file can harm your computer. Do you want to keep Learn IDE anyway?" Click "Keep" to continue the download; the Learn IDE is safe.
-3. Install the Learn IDE on your computer and then start it up
-4. Log in to the Learn IDE with your Learn account
+3. Install the Learn IDE on your computer and then start it up.
+4. Log in to the Learn IDE with your newly created Learn account.
 
-If you have any trouble getting the Learn IDE installed, use the chat icon on the bottom right of the page to get help or see if your issue is listed in our [Help Center](https://help.learn.co/hc/en-us/categories/204144547-The-Learn-IDE). We know this part can be a pain, but you only have to do it once.
+If you have any trouble getting the Learn IDE installed, just use the Ask a Question button on this page and someone will jump in to help you ASAP.
 
 ## About the Learn IDE
 
@@ -31,23 +31,15 @@ The Learn IDE's terminal—your command line and shell—can be found below the 
 
 Didn't follow the instructions the first time above? No problem. Here they are again for you below. 
 
-1. <a class="js--download-ide button button--color-blue button--corners-tight" href="#">Click here to Download the Learn IDE</a>
-2. The Chrome browser may give you a warning upon downloading: "This type of file can harm your computer. Do you want to keep Learn IDE anyway?" Click "Keep" to continue the download; the Learn IDE is safe.
-3. Install the Learn IDE on your computer and then start it up
-4. Log in to the Learn IDE with your Learn account
-
-## Run `learn hello` from your IDE Terminal
-
-The final step to make sure everything about your IDE and Learn account are working is to type `learn hello` and press enter from your IDE terminal.
-
-After you hit enter, wait until your terminal responds with Hello, as in the example below.
-
-![Learn Hello](http://learn-co-videos.s3.amazonaws.com/welcome/learn-hello.gif)
-
-If you have any issues with this step, please use the chat icon on the bottom right.
+1. <a class="js--download-ide" href="#">Click here to create a Learn account and Download the Learn IDE</a>
+2. The Chrome browser may give you a warning upon downloading, "This type of file can harm your computer. Do you want to keep Learn IDE anyway?". Click "Keep" to continue the download, the Learn IDE is safe.
+3. Install the Learn IDE on your computer and then start it up.
+4. Log in to the Learn IDE with your newly created Learn account.
 
 ## Continue to Your First Lab!
 
 Next up, we'll walk you through the process of how to use the Learn IDE to solve code labs on Learn. The real fun is about to begin!
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/welcome-to-learn-4-b'>The Learn IDE</a> on Learn.co and start learning to code for free.</p>
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/environment-setup'>Environment Setup</a> on Learn.co and start learning to code for free.</p>
