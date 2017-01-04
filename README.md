@@ -2,6 +2,9 @@
 
 You'll be using the Learn IDE to complete the coding labs in your courses. You'll be spending a lot of time with the IDE so let's take a few minutes to get to know it.
 
+
+**If you are currently on a mobile device, you need to switch to a computer in order to proceed.**
+
 ## Download the Learn IDE
 
 First, we need to get set up with the Learn IDE. Follow the instructions below: 
@@ -51,3 +54,5 @@ If you have any issues with this step, please use the chat icon on the bottom ri
 Next up, we'll walk you through the process of how to use the Learn IDE to solve code labs on Learn. The real fun is about to begin!
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/welcome-to-learn-4-b'>The Learn IDE</a> on Learn.co and start learning to code for free.</p>
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/environment-setup'>Environment Setup</a> on Learn.co and start learning to code for free.</p>
